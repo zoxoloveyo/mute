@@ -7,6 +7,7 @@
     
 ####################
 ## Import libs
+import telegraph
 import sys
 import asyncio
 import time
